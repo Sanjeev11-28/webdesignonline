@@ -6,5 +6,6 @@
     1.orange
     2.mango
     
-*vegetables
-    potato
+* vegetables
+        * potato
+        * brinjal
